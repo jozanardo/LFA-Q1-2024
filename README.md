@@ -1,7 +1,9 @@
 # Nome dos integrantes
-João Augusto Zanardo de Lima - 11201920195
+Nome: João Augusto Zanardo de Lima - 11201920195
+E-mail: joao.zanardo@aluno.ufabc.edu.br
 
-Guilherme Klinkerfuss Guimarães Pereira - 11201912414
+Nome: Guilherme Klinkerfuss Guimarães Pereira - 11201912414
+E-mail: klinkerfuss.pereira@aluno.ufabc.edu.br
 
 # Introdução
 
