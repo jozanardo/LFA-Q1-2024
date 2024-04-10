@@ -14,3 +14,7 @@ O autômato proposto neste trabalho utiliza conceitos fundamentais de linguagens
 A construção deste autômato envolve a definição de estados e transições que representam diferentes partes da análise sintática de uma expressão matemática. Através de uma abordagem baseada em transições de estados, o autômato é capaz de processar cada caractere da entrada e determinar o resultado da expressão de forma eficiente e precisa.
 
 Este projeto também acompanha um artigo que descreve detalhadamente o design e implementação do autômato, incluindo a definição dos estados, alfabeto, função de transição e conjunto de estados de aceitação. Além disso, apresenta-se uma análise do funcionamento do autômato em diferentes cenários, demonstrando sua capacidade de avaliar corretamente expressões matemáticas simples.
+
+
+# Google Collab
+https://colab.research.google.com/drive/1KWoUm4PplwyABe7lhhH5ApehQT-HqNWA?usp=sharing
